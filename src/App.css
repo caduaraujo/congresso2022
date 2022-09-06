@@ -231,7 +231,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .banner {
   margin-top: 0;
   padding: 500px 0 50px 0;
-  background-image: url('./assets/img/banner-bg.png');
+  background-image: url('./assets/img/genfest.JPG');
   background-position: top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -252,6 +252,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.8px;
   line-height: 1;
   margin-bottom: 20px;
+  background: rgb(45 41 41 / 50%);
   /* display: block; */
 }
 
@@ -262,6 +263,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   line-height: 1;
   margin-bottom: 20px;
   display: block;
+  background: rgb(45 41 41 / 50%);
 }
 .banner p {
   color: #B8B8B8;

@@ -1,5 +1,6 @@
 import calendar from '../assets/img/Vector.png';
 import geo from '../assets/img/geo-alt.svg';
+import Button from 'react-bootstrap/Button';
 
 export const Skills = () => {
   return (
@@ -8,18 +9,27 @@ export const Skills = () => {
         <div className="row">
           <div className="col-12">
             <div className="skill-bx wow zoomIn">
-              <h3>Informações</h3>
               <p>
                 <div className="social-icon">
                   <a><img src={calendar} alt="" /></a>
-                  12 a 15 de novembro de 2022
+                  11 a 15 de novembro de 2022
                 </div>
               </p>
               <p>
                 <div className="social-icon">
                   <a><img src={geo} alt="" /></a>
-                  Rio das Graças Resort
+                  Rio das Garças Resort
                   Rua da Floresta, 78 - Taborda, São José de Mipibu - RN, 59162-000
+                </div>
+              </p>
+              <p>
+                <div>
+                <Button  href="https://forms.gle/AFQAgLxayYwutcVg7" target="_blank" variant="light" type="submit" size="lg">Inscrever-me</Button>{' '}
+                </div>
+              </p>
+              <p>
+                <div>
+                  Confira o <a href="https://riodasgarcasecoresort.com.br" target="_blank"> site do resort </a>
                 </div>
               </p>
             </div>

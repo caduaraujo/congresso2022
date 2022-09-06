@@ -1,6 +1,5 @@
 import './App.css';
-import { Container } from 'react-bootstrap';
-import { Image } from 'react-bootstrap/Image'
+
 import { NavBar } from "./components/NavBar";
 import { Banner } from "./components/Banner";
 import { Skills } from "./components/Skills";

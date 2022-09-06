@@ -29,7 +29,7 @@ export const NavBar = () => {
   }
 
   return (
-    <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
+    <Navbar className={scrolled ? "scrolled" : ""}>
       <Container>
         <Navbar.Brand href="#home">
           <img src={logo} alt="Logo" />
@@ -41,14 +41,11 @@ export const NavBar = () => {
 
         <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="ms-auto">
-          <Nav.Link href="#home" className={activeLink === 'home' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('home')}>Inicio</Nav.Link>
-          <Nav.Link href="#details" className={activeLink === 'details' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('details')}>Informações</Nav.Link>
-          <Nav.Link href="#inscription" className={activeLink === 'inscricoes' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('inscricoes')}>Incrição</Nav.Link>
-          <Nav.Link href="#help" className={activeLink === 'help' ? 'active navbar-link' : 'navbar-link'} onClick={() => onUpdateActiveLink('help')}>Quero Ajudar</Nav.Link>
+
         </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-              <a href="#"><img src={instalogo} alt="" /></a>
+              <a href="https://www.instagram.com/gen2brasil/" target="_blank"><img src={instalogo} alt="" /></a>
             </div>
           </span>
         </Navbar.Collapse>
