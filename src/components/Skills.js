@@ -24,7 +24,12 @@ export const Skills = () => {
               </p>
               <p>
                 <div>
-                <Button  href="https://forms.gle/AFQAgLxayYwutcVg7" target="_blank" variant="light" type="submit" size="lg">Inscrever-me</Button>{' '}
+                <Button  href="https://forms.gle/6rWaokX3hwF8mpGV9" target="_blank" variant="primary" type="submit" size="lg">Clique aqui para acessar o formulário do translado até o resort</Button>{' '}
+                </div>
+              </p>
+              <p>
+                <div>
+                <Button  href="https://forms.gle/AFQAgLxayYwutcVg7" target="_blank" variant="light" type="submit" size="lg">Clique aqui para se inscrever</Button>{' '}
                 </div>
               </p>
               <p>

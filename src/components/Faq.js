@@ -12,7 +12,7 @@ export const Faq = () => {
           <Accordion.Item eventKey="0">
             <Accordion.Header>Como funcionará o translado do aeroporto de Natal até o Congresso?</Accordion.Header>
             <Accordion.Body>
-              Estamos trabalhando a ideia de formar grupos que chegam em horários próximos para a realização do translado. Desenvolveremos uma logística mediante retorno dos preenchimentos do formulário do translado (link:   )
+              Estamos trabalhando a ideia de formar grupos que chegam em horários próximos para a realização do translado. Desenvolveremos uma logística mediante retorno dos preenchimentos do <a href="https://forms.gle/kh5JDo9PQ3Ybd2PZA" target="_blank"> formulário do translado</a>.
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="1">
@@ -48,7 +48,7 @@ export const Faq = () => {
           <Accordion.Item eventKey="5">
             <Accordion.Header>Chego na rodoviária de natal, tenho direito ao translado?</Accordion.Header>
             <Accordion.Body>
-              Sim. Entretanto, é preciso que você nos informe preenchendo o formulário do translado (link:   ).
+              Sim. Entretanto, é preciso que você nos informe preenchendo o do <a href="https://forms.gle/kh5JDo9PQ3Ybd2PZA" target="_blank"> formulário do translado</a>.
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="6">
@@ -56,7 +56,7 @@ export const Faq = () => {
             <Accordion.Body>
               Pontos de contatos de João Pessoa e Recife estarão disponíveis para orientá-los, caso precisem. É necessário que nos informe através do formulário do translado no campo de “Tem alguma realidade específica que precisa de ajuda?”, para que assim alguém da cidade de João Pessoa ou Recife entre em contato (link:   ).
               <br></br>
-              Estamos trabalhando a ideia de formar grupos que chegam em horários próximos para a realização do translado. Desenvolveremos uma logística mediante retorno dos preenchimentos do formulário do translado (link:   )
+              Estamos trabalhando a ideia de formar grupos que chegam em horários próximos para a realização do translado. Desenvolveremos uma logística mediante retorno dos preenchimentos do do <a href="https://forms.gle/kh5JDo9PQ3Ybd2PZA" target="_blank"> formulário do translado</a>.
             </Accordion.Body>
           </Accordion.Item>
           <Accordion.Item eventKey="7">
