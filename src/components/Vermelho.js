@@ -13,12 +13,15 @@ export const Vermelho = () => {
               AÇÃO EXTRAORDINÁRIA DE COMUNHÃO DE BENS: "Congresso Nacional Gen"
               </p>
 
-              ⚠️ A Geração Nova do Movimento dos Focolares, realizará em Novembro deste ano, o Congresso Nacional Gen2 em Natal-RN,<br></br>
-              e como forma de permitir que todos participem da construção desse momento e ajudem com a viabilidade do nosso encontro <br></br>
-              (passagens, estruturas e diversos outros gastos), disponibilizamos o link da "Vakinha Virtual" para aqueles que desejarem <br></br>
-              fazer a sua doação, de qualquer valor. <br></br>
+              <p>
+              ⚠️ A Geração Nova do Movimento dos Focolares, realizará em Novembro deste ano, o Congresso Nacional Gen2 em Natal-RN,
+              e como forma de permitir que todos participem da construção desse momento e ajudem com a viabilidade do nosso encontro
+              (passagens, estruturas e diversos outros gastos), disponibilizamos o link da "Vakinha Virtual" para aqueles que desejarem fazer a sua doação, de qualquer valor.
+              </p>
 
-              As doações poderão ser via boleto, cartão de crédito ou pix. ☺️🤝🤞🏻 <br></br>
+              <br></br>
+              As doações poderão ser via boleto, cartão de crédito ou pix. ☺️🤝🤞🏻
+              <br></br>
               <br></br>
 
               <Button  href="https://abacashi.com/p/congresso-nacional-gen-2" target="_blank" variant="light" type="submit" size="lg">Acessar link para doação (cartão e boleto)</Button>{' '}
