@@ -5,6 +5,7 @@ import { Banner } from "./components/Banner";
 import { Skills } from "./components/Skills";
 import { Faq } from "./components/Faq";
 import { Verde } from "./components/Verde";
+import { Vermelho } from "./components/Vermelho";
 // import { motion, useScroll } from "framer-motion"
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Banner />
       <Skills />
       <Verde />
+      <Vermelho />
       <Faq />
     </div>
   );
