@@ -29,12 +29,7 @@ export const Skills = () => {
               </p>
               <p>
                 <div>
-                <Button  href="https://forms.gle/AFQAgLxayYwutcVg7" target="_blank" variant="light" type="submit" size="lg">Clique aqui para se inscrever</Button>{' '}<br></br>
-                </div>
-              </p>
-              <p>
-                <div>
-                  Confira o <a href="https://riodasgarcasecoresort.com.br" target="_blank"> site do resort </a>
+                 Incrições Encerradas!!<br></br>
                 </div>
               </p>
             </div>

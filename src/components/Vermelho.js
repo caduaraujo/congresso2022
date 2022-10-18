@@ -20,7 +20,7 @@ export const Vermelho = () => {
               </p>
 
               <br></br>
-              As doações poderão ser via boleto, cartão de crédito ou pix. ☺️🤝🤞🏻
+              As doações poderão ser via boleto, cartão de crédito ou pix.
               <br></br>
               <br></br>
 
@@ -32,7 +32,7 @@ export const Vermelho = () => {
               Leonel Anderson Macedo da Silva <br></br>
               CPF: ***.288.893-**<br></br>
 
-              Agradecemos a sua generosidade!🙏🏻❤️<br></br>
+              Agradecemos a sua generosidade!<br></br>
             </div>
           </div>
         </div>

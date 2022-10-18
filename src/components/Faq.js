@@ -87,6 +87,14 @@ export const Faq = () => {
               <p>Em contato com o Hotel, eles sugeriram que os motoristas se hospedassem no município de Parnamirim, próximo ao local do congresso.</p>
             </Accordion.Body>
           </Accordion.Item>
+
+          <Accordion.Item eventKey="8">
+            <Accordion.Header>É preciso levar roupa de cama? </Accordion.Header>
+            <Accordion.Body>
+              <p>Sim! É preciso levar roupa de cama, banho e travesseiro. (Com exceção daqueles que reservaram e pagaram o kit disponibilizado pelo hotel separadamente até 16/10). </p>
+            </Accordion.Body>
+          </Accordion.Item>
+
         </Accordion>
       </div>
     </section>
