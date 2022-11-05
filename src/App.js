@@ -6,6 +6,7 @@ import { Skills } from "./components/Skills";
 import { Faq } from "./components/Faq";
 import { Verde } from "./components/Verde";
 import { Vermelho } from "./components/Vermelho";
+import { CarouselCheck } from "./components/CarouselCheck";
 // import { motion, useScroll } from "framer-motion"
 
 function App() {
@@ -14,7 +15,7 @@ function App() {
       <NavBar />
       <Banner />
       <Skills />
-      <Verde />
+      <CarouselCheck />
       <Vermelho />
       <Faq />
     </div>

@@ -1,5 +1,3 @@
-import calendar from '../assets/img/Vector.png';
-import geo from '../assets/img/geo-alt.svg';
 import Button from 'react-bootstrap/Button';
 
 export const Verde = () => {
@@ -10,7 +8,7 @@ export const Verde = () => {
           <div className="col-12">
             <div className="verde-bx wow zoomIn">
               <p className="fw-bold">
-              Já considerou doar um talento pra ministrar uma oficina fazendo o que você curte?
+              Se liga na check list que a gente preparou para você não esquecer nada importante na hora de arrumar a mala!
               </p>
               <p>
               A ideia é incluí-las em uma tarde de lazer da nossa programação 💚 <br></br>

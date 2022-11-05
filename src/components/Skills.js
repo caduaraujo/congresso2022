@@ -29,7 +29,7 @@ export const Skills = () => {
               </p>
               <p>
                 <div>
-                 Incrições Encerradas!!<br></br>
+                 Inscrições Encerradas!!<br></br>
                 </div>
               </p>
             </div>
