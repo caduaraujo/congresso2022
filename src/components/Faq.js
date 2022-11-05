@@ -94,6 +94,12 @@ export const Faq = () => {
               <p>Sim! É preciso levar roupa de cama, banho e travesseiro. (Com exceção daqueles que reservaram e pagaram o kit disponibilizado pelo hotel separadamente até 16/10). </p>
             </Accordion.Body>
           </Accordion.Item>
+          <Accordion.Item eventKey="9">
+            <Accordion.Header>Tenho menos de 18 anos, posso participar do congresso? </Accordion.Header>
+            <Accordion.Body>
+              <p>Não, a participação é restrita a maiores de 18 anos.</p>
+            </Accordion.Body>
+          </Accordion.Item>
 
         </Accordion>
       </div>
